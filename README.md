@@ -1,8 +1,22 @@
 # Rust Language Tutorial
 
+## 040 - Ownership
+
+Started on 2022-07-09 and finished on 2022-07-tbd.
+
+- https://youtu.be/VFIOSWy93H0
+
+```bash
+cargo new rlt04-ownership
+cd rlt04-ownership
+rm -rf .git
+cp ../rlt01-getting-started/.gitignore .
+cargo run
+```
+
 ## 03 - Programming Concepts
 
-Started on 2022-07-08 and finished on 2022-07-tbd.
+Started on 2022-07-08 and finished on 2022-07-08.
 
 - https://youtu.be/2V0JaMVjzws
 

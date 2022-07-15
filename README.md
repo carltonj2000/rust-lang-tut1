@@ -1,6 +1,6 @@
 # Rust Language Tutorial
 
-## 040 - Ownership
+## 04 - Ownership
 
 Started on 2022-07-09 and finished on 2022-07-tbd.
 

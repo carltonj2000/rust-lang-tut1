@@ -14,6 +14,7 @@ fn string_slice() {
     let idx = first_word(&s);
     println!("idx = {idx}, {hello}, {world}, {hw}");
     s.clear();
+    // println!("idx={idx}"); will error due to mutable borrow on line above
 }
 
 fn first_word(s: &str) -> &str {

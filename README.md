@@ -1,8 +1,22 @@
 # Rust Language Tutorial
 
+## 05 - Structs
+
+Started on 2022-07-15 and finished on 2022-07-tbd.
+
+- https://youtu.be/n3bPhdiJm9I
+
+```bash
+cargo new rlt05-structs
+cd rlt05-structs
+rm -rf .git
+cp ../rlt01-getting-started/.gitignore .
+cargo run
+```
+
 ## 04 - Ownership
 
-Started on 2022-07-09 and finished on 2022-07-tbd.
+Started on 2022-07-09 and finished on 2022-07-15.
 
 - https://youtu.be/VFIOSWy93H0
 

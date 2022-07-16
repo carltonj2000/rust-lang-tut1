@@ -1,8 +1,20 @@
 # Rust Language Tutorial
 
-## 05 - Structs
+## 06 - Enums And Patterns
 
 Started on 2022-07-15 and finished on 2022-07-tbd.
+
+- https://youtu.be/6rcTSxPJ6Bw
+
+```bash
+cargo new rlt06-enums_patterns
+cd rlt06-enums_patterns
+cargo run
+```
+
+## 05 - Structs
+
+Started on 2022-07-15 and finished on 2022-07-15.
 
 - https://youtu.be/n3bPhdiJm9I
 

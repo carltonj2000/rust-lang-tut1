@@ -1,8 +1,20 @@
 # Rust Language Tutorial
 
+## 07 - Modules
+
+Started on 2022-07-15 and finished on 2022-07-15.
+
+- https://youtu.be/5RPXgDQrjio
+
+```bash
+cargo new rlt07-modules
+cd rlt07-modules
+cargo run
+```
+
 ## 06 - Enums And Patterns
 
-Started on 2022-07-15 and finished on 2022-07-tbd.
+Started on 2022-07-15 and finished on 2022-07-15.
 
 - https://youtu.be/6rcTSxPJ6Bw
 

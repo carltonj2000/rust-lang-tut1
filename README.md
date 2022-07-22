@@ -1,93 +1,31 @@
 # Rust Language Tutorial
 
-## 07 - Modules
-
-Started on 2022-07-15 and finished on 2022-07-15.
-
-- https://youtu.be/5RPXgDQrjio
-
-```bash
-cargo new rlt07-modules
-cd rlt07-modules
+```
+cargo new <project>
+cd <project>
 cargo run
 ```
 
-## 06 - Enums And Patterns
+- [rlt08-collections](https://youtu.be/Zs-pS-egQSs)
+  started 2022-07-18 and finished 2022-07-21.
 
-Started on 2022-07-15 and finished on 2022-07-15.
+- [rlt07-modules](https://youtu.be/5RPXgDQrjio)
+  started 2022-07-15 and finished 2022-07-15.
 
-- https://youtu.be/6rcTSxPJ6Bw
+- [rlt06-enums_patterns](https://youtu.be/6rcTSxPJ6Bw)
+  started 2022-07-15 and finished 2022-07-15.
 
-```bash
-cargo new rlt06-enums_patterns
-cd rlt06-enums_patterns
-cargo run
-```
+- [rlt05-structs](https://youtu.be/n3bPhdiJm9I)
+  started 2022-07-15 and finished 2022-07-15.
 
-## 05 - Structs
+- [rlt04-ownership](https://youtu.be/VFIOSWy93H0)
+  started 2022-07-09 and finished 2022-07-15.
 
-Started on 2022-07-15 and finished on 2022-07-15.
+- [rlt03-programming-concepts](https://youtu.be/2V0JaMVjzws)
+  started 2022-07-08 and finished 2022-07-08.
 
-- https://youtu.be/n3bPhdiJm9I
+- [rlt02-guessing-game](https://youtu.be/H0xBSbnQYds)
+  started 2022-07-07 and finished 2022-07-08.
 
-```bash
-cargo new rlt05-structs
-cd rlt05-structs
-rm -rf .git
-cp ../rlt01-getting-started/.gitignore .
-cargo run
-```
-
-## 04 - Ownership
-
-Started on 2022-07-09 and finished on 2022-07-15.
-
-- https://youtu.be/VFIOSWy93H0
-
-```bash
-cargo new rlt04-ownership
-cd rlt04-ownership
-rm -rf .git
-cp ../rlt01-getting-started/.gitignore .
-cargo run
-```
-
-## 03 - Programming Concepts
-
-Started on 2022-07-08 and finished on 2022-07-08.
-
-- https://youtu.be/2V0JaMVjzws
-
-```bash
-cargo new rlt03-programming-concepts
-cd rlt03-programming-concepts
-rm -rf .git
-cp ../rlt01-getting-started/.gitignore .
-cargo run
-```
-
-## 02 - Guessing Game
-
-Started on 2022-07-07 and finished on 2022-07-08.
-
-- https://youtu.be/H0xBSbnQYds
-
-```bash
-cargo new rlt02-guessing-game
-cd rlt02-guessing-game
-rm -rf .git
-cargo build
-cargo run
-```
-
-## 01 - Getting Started
-
-Started on 2022-07-07 and finished on 2022-07-07.
-
-- https://youtu.be/OX9HJsJUDxA
-
-```bash
-cargo new rlt01-getting-started
-cd rlt01-getting-started
-cargo run
-```
+- [rlt01-getting-started](https://youtu.be/OX9HJsJUDxA)
+  started 2022-07-07 and finished 2022-07-07.

@@ -7,7 +7,7 @@ cargo run
 ```
 
 [rlt09-errors](https://youtu.be/wM6o70NAWUI)
-started 2022-07-28 and finished 2022-07-tbd.
+started 2022-07-28 and finished 2022-08-16.
 
 [rlt08-collections](https://youtu.be/Zs-pS-egQSs)
 started 2022-07-18 and finished 2022-07-21.

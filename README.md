@@ -6,6 +6,9 @@ cd <project>
 cargo run
 ```
 
+[rlt10-generics](https://youtu.be/6rcTSxPJ6Bw)
+started 2022-08-19 and finished tbd.
+
 [rlt09-errors](https://youtu.be/wM6o70NAWUI)
 started 2022-07-28 and finished 2022-08-16.
 

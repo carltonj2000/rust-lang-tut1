@@ -52,7 +52,7 @@ fn main() {
         println!("elem = {elem}");
     }
 
-    for number in (1..4) {
+    for number in 1..4 {
         println!("number = {number}");
     }
 }

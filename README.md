@@ -6,8 +6,11 @@ cd <project>
 cargo run
 ```
 
+[rlt11-traits](https://youtu.be/T0Xfltu4h3A)
+started 2022-08-19 and finished 2022-08-19.
+
 [rlt10-generics](https://youtu.be/6rcTSxPJ6Bw)
-started 2022-08-19 and finished tbd.
+started 2022-08-19 and finished 2022-08-19.
 
 [rlt09-errors](https://youtu.be/wM6o70NAWUI)
 started 2022-07-28 and finished 2022-08-16.

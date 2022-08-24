@@ -1,10 +1,13 @@
 # Rust Language Tutorial
 
 ```
-cargo new <project>
+cargo new <project> [--lib]
 cd <project>
 cargo run
 ```
+
+[rlt13-testing](https://youtu.be/18-7NoNPO30) (lib)
+started 2022-08-21 and finished 2022-08-23
 
 [rlt12-lifetimes](https://youtu.be/juIINGuZyBc)
 started 2022-08-19 and finished 2022-08-19

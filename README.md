@@ -6,8 +6,11 @@ cd <project>
 cargo run
 ```
 
-[rlt15-cli](dhttps://youtu.be/XYkiwsplDTg) 
-started 2022-08-24 and finished 2022-08-tbd
+[rlt16-cli](https://youtu.be/AABHxixn6Cw) 
+started 2022-08-24 and finished 2022-08-25
+
+[rlt15-cli](https://youtu.be/XYkiwsplDTg) 
+started 2022-08-24 and finished 2022-08-24
 
 [rlt14-testing](https://youtu.be/-L4nKAlmH3M) (lib)
 started 2022-08-24 and finished 2022-08-24

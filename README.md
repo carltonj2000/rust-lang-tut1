@@ -6,6 +6,9 @@ cd <project>
 cargo run
 ```
 
+[rlt18-itrators](https://youtu.be/4GcKrj4By8k) 
+started 2022-08-31 and finished 2022-09-01
+
 [rlt17-closures](https://youtu.be/kZXJvLfjUS4) 
 started 2022-08-26 and finished 2022-08-31
 

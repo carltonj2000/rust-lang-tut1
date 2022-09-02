@@ -6,6 +6,9 @@ cd <project>
 cargo run
 ```
 
+[rlt19-itrcli](https://youtu.be/rb63xJEjaZU) 
+started 2022-09-02 and finished 2022-09-tbd
+
 [rlt18-itrators](https://youtu.be/4GcKrj4By8k) 
 started 2022-08-31 and finished 2022-09-01
 

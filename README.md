@@ -6,6 +6,9 @@ cd <project>
 cargo run
 ```
 
+[rlt24-drop](https://youtu.be/RPWZcTYBS4k) 
+started 2022-09-03 and finished 2022-09-03
+
 [rlt23-dref](https://youtu.be/dYEC6NElVOg) 
 started 2022-09-03 and finished 2022-09-03
 

@@ -6,8 +6,11 @@ cd <project>
 cargo run
 ```
 
+[rlt20-crates](https://youtu.be/4TI153PIEDQ) 
+started 2022-09-02 and finished 2022-09-02
+
 [rlt19-itrcli](https://youtu.be/rb63xJEjaZU) 
-started 2022-09-02 and finished 2022-09-tbd
+started 2022-09-02 and finished 2022-09-02
 
 [rlt18-itrators](https://youtu.be/4GcKrj4By8k) 
 started 2022-08-31 and finished 2022-09-01

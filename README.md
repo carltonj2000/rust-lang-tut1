@@ -4,36 +4,40 @@
 cargo new <project> [--lib]
 cd <project>
 cargo run
+cargo run --bin binName
 ```
 
-[rlt24-drop](https://youtu.be/RPWZcTYBS4k) 
+[rlt25-refcnt](https://youtu.be/M9Owp3iLigg)
+started 2022-09-08 and finished 2022-09-08
+
+[rlt24-drop](https://youtu.be/RPWZcTYBS4k)
 started 2022-09-03 and finished 2022-09-03
 
-[rlt23-dref](https://youtu.be/dYEC6NElVOg) 
+[rlt23-dref](https://youtu.be/dYEC6NElVOg)
 started 2022-09-03 and finished 2022-09-03
 
-[rlt22-boxsmrtptr](https://youtu.be/m76sRj2VgGo) 
+[rlt22-boxsmrtptr](https://youtu.be/m76sRj2VgGo)
 started 2022-09-02 and finished 2022-09-03
 
-[rlt21-workspaces](https://youtu.be/70_9IIsQfjs) 
+[rlt21-workspaces](https://youtu.be/70_9IIsQfjs)
 started 2022-09-02 and finished 2022-09-02
 
-[rlt20-crates](https://youtu.be/4TI153PIEDQ) 
+[rlt20-crates](https://youtu.be/4TI153PIEDQ)
 started 2022-09-02 and finished 2022-09-02
 
-[rlt19-itrcli](https://youtu.be/rb63xJEjaZU) 
+[rlt19-itrcli](https://youtu.be/rb63xJEjaZU)
 started 2022-09-02 and finished 2022-09-02
 
-[rlt18-itrators](https://youtu.be/4GcKrj4By8k) 
+[rlt18-itrators](https://youtu.be/4GcKrj4By8k)
 started 2022-08-31 and finished 2022-09-01
 
-[rlt17-closures](https://youtu.be/kZXJvLfjUS4) 
+[rlt17-closures](https://youtu.be/kZXJvLfjUS4)
 started 2022-08-26 and finished 2022-08-31
 
-[rlt16-cli](https://youtu.be/AABHxixn6Cw) 
+[rlt16-cli](https://youtu.be/AABHxixn6Cw)
 started 2022-08-24 and finished 2022-08-25
 
-[rlt15-cli](https://youtu.be/XYkiwsplDTg) 
+[rlt15-cli](https://youtu.be/XYkiwsplDTg)
 started 2022-08-24 and finished 2022-08-24
 
 [rlt14-testing](https://youtu.be/-L4nKAlmH3M) (lib)

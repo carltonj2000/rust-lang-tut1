@@ -7,13 +7,16 @@ cargo run
 cargo run --bin binName
 ```
 
-[rlt28-threads](https://youtu.be/pIVZRDFAUyc)
+[rlt29-msgpassing](https://youtu.be/FE1BkKqYCG)
+started 2022-09-17 and finished 2022-09-tbd
+
+[rlt28-threads](https://youtu.be/06WcsNPUNC8)
 started 2022-09-09 and finished 2022-09-17
 
 [rlt27-refcycle](https://youtu.be/pIVZRDFAUyc)
 started 2022-09-09 and finished 2022-09-09
 
-[rlt26-interiormut](https://youtu.be/77aRH6YBKyY)
+[rlt26-interiormut](https://youtu.be/77aRH6YBKyY
 started 2022-09-08 and finished 2022-09-08
 
 [rlt25-refcnt](https://youtu.be/M9Owp3iLigg)

@@ -7,6 +7,9 @@ cargo run
 cargo run --bin binName
 ```
 
+[rlt28-threads](https://youtu.be/pIVZRDFAUyc)
+started 2022-09-09 and finished 2022-09-17
+
 [rlt27-refcycle](https://youtu.be/pIVZRDFAUyc)
 started 2022-09-09 and finished 2022-09-09
 

@@ -7,11 +7,14 @@ cargo run
 cargo run --bin binName
 ```
 
+[rlt30-sharedstate](https://youtu.be/mupwF9jbVZ4)
+started 2022-09-18 and finished 2022-09-19
+
 [rlt29-msgpassing](https://youtu.be/FE1BkKqYCG)
-started 2022-09-17 and finished 2022-09-tbd
+started 2022-09-18 and finished 2022-09-18
 
 [rlt28-threads](https://youtu.be/06WcsNPUNC8)
-started 2022-09-09 and finished 2022-09-17
+started 2022-09-09 and finished 2022-09-18
 
 [rlt27-refcycle](https://youtu.be/pIVZRDFAUyc)
 started 2022-09-09 and finished 2022-09-09

@@ -7,6 +7,9 @@ cargo run
 cargo run --bin binName
 ```
 
+[rlt31-oop](https://youtu.be/UGDa0P2PXrY)
+started 2022-09-23 and finished 2022-09-23
+
 [rlt30-sharedstate](https://youtu.be/mupwF9jbVZ4)
 started 2022-09-18 and finished 2022-09-19
 

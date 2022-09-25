@@ -5,7 +5,12 @@ cargo new <project> [--lib]
 cd <project>
 cargo run
 cargo run --bin binName
+cargo test
+cargo test -- nocapture
 ```
+
+[rlt32-traits](https://youtu.be/ReBmm0eJg6g)
+started 2022-09-24 and finished 2022-09-24
 
 [rlt31-oop](https://youtu.be/UGDa0P2PXrY)
 started 2022-09-23 and finished 2022-09-23

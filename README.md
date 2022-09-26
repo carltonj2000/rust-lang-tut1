@@ -9,6 +9,9 @@ cargo test
 cargo test -- nocapture
 ```
 
+[rlt33-statedp](https://youtu.be/ReBmm0eJg6g)
+started 2022-09-24 and finished 2022-09-24
+
 [rlt32-traits](https://youtu.be/ReBmm0eJg6g)
 started 2022-09-24 and finished 2022-09-24
 
@@ -27,7 +30,7 @@ started 2022-09-09 and finished 2022-09-18
 [rlt27-refcycle](https://youtu.be/pIVZRDFAUyc)
 started 2022-09-09 and finished 2022-09-09
 
-[rlt26-interiormut](https://youtu.be/77aRH6YBKyY
+[rlt26-interiormut](https://youtu.be/77aRH6YBKyY)
 started 2022-09-08 and finished 2022-09-08
 
 [rlt25-refcnt](https://youtu.be/M9Owp3iLigg)
